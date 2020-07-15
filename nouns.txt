@@ -1,5 +1,3 @@
-begin
-second string!!!
 ----------------------
 aardvark
 aardvarks
